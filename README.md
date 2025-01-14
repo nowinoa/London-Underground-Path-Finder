@@ -85,7 +85,7 @@ You can run each code by calling the name of the file, for example:
 This project was created by <a href="https://github.com/nowinoa">Ainhoa Prada</a> under the supervision of the <a href="https://www.gre.ac.uk/">University of Greenwich</a>. 
 
 ## License
-This project is under MIT license
+This project is under MIT license.
         
 ## Questions
 For any questions or issues feel free to contact me at: apt.code14@gmail.com
